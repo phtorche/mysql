@@ -1,6 +1,6 @@
 services:
 - type: pserv
-  name: mysql
+  name: tcbroye28-mysql
   plan: starter
   env: docker
   autoDeploy: false
