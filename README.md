@@ -1,6 +1,6 @@
 # MySQL on Render
 
-This is a template repository for running [MySQL](https://www.mysql.com) on Render. 
+This is a template repository for running [MySQL](https://www.mysql.com) on Render.
 
 * It uses the [official](https://hub.docker.com/r/mysql/mysql-server) MySQL Docker image.
 
@@ -13,6 +13,6 @@ The `master` branch runs MySQL 8. You can use the `mysql-5` branch to run MySQL 
 
 ## Deployment
 
-[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/render-examples/mysql)
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/phtorche/mysql)
 
 See https://render.com/docs/deploy-mysql.
